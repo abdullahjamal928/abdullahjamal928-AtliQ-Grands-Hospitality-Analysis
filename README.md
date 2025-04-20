@@ -10,7 +10,7 @@ This project focuses on reviving the business using **hospitality analytics**. W
 
 > 🎯 **This project is a part of the Codebasics Bootcamp 3.0**
 
-🔗 [Click to view the Power BI Report]([https://app.powerbi.com/view?r=eyJrIjoiZTA2MGQxNWQtMDBhZC00ZjhiLTllNDAtYzA5NzEzYWYwYzNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/view?r=eyJrIjoiYmZhZTNhMjQtZjU2OC00ZDFkLTlkMmItYzVlNDVmYTZjZTM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+🔗 [Click to view the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTA2MGQxNWQtMDBhZC00ZjhiLTllNDAtYzA5NzEzYWYwYzNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/view?r=eyJrIjoiYmZhZTNhMjQtZjU2OC00ZDFkLTlkMmItYzVlNDVmYTZjZTM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
