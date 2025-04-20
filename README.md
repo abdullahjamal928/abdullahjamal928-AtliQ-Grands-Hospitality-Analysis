@@ -117,18 +117,12 @@ The dashboard includes **4 interactive pages**:
 │   ├── overview-page.png
 │   ├── revenue-page.png
 │   └── bookings-averqge-page.png
-└── 📁 Data/
-    ├── dim_date.csv
-    ├── dim_hotels.csv
-    ├── dim_rooms.csv
-    ├── fact_aggregated_bookings.csv
-    └── fact_bookings.csv
 ```
 
 ---
 
 ## 📬 Connect With Me
 
-Let’s connect on LinkedIn: [Abdullah Jamal]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abdullah-jamal-aj/))
+Let’s connect on LinkedIn: [Abdullah Jamal](https://www.linkedin.com/in/abdullah-jamal-aj/)
 
 ---
